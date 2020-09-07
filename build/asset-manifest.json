@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/painting/static/css/main.d03b43d0.chunk.css",
+    "main.js": "/painting/static/js/main.c95ce944.chunk.js",
+    "main.js.map": "/painting/static/js/main.c95ce944.chunk.js.map",
+    "runtime-main.js": "/painting/static/js/runtime-main.fcff1a69.js",
+    "runtime-main.js.map": "/painting/static/js/runtime-main.fcff1a69.js.map",
+    "static/css/2.fc5756f1.chunk.css": "/painting/static/css/2.fc5756f1.chunk.css",
+    "static/js/2.15528989.chunk.js": "/painting/static/js/2.15528989.chunk.js",
+    "static/js/2.15528989.chunk.js.map": "/painting/static/js/2.15528989.chunk.js.map",
+    "index.html": "/painting/index.html",
+    "precache-manifest.0738c84b86f7b962b142c0f02a4450f2.js": "/painting/precache-manifest.0738c84b86f7b962b142c0f02a4450f2.js",
+    "service-worker.js": "/painting/service-worker.js",
+    "static/css/2.fc5756f1.chunk.css.map": "/painting/static/css/2.fc5756f1.chunk.css.map",
+    "static/css/main.d03b43d0.chunk.css.map": "/painting/static/css/main.d03b43d0.chunk.css.map",
+    "static/js/2.15528989.chunk.js.LICENSE.txt": "/painting/static/js/2.15528989.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/painting/static/media/slide-1.6bf67e4e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcff1a69.js",
+    "static/css/2.fc5756f1.chunk.css",
+    "static/js/2.15528989.chunk.js",
+    "static/css/main.d03b43d0.chunk.css",
+    "static/js/main.c95ce944.chunk.js"
+  ]
+}
